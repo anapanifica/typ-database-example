@@ -1,0 +1,11 @@
+name: "My typological database"
+navbar:
+  title: "Continuative"
+  left:
+    - text: "Main"
+      href: index.html
+    - text: "Text"
+      href: text.html
+  right:
+    - text: "Download the dataset (.csv)"
+      href: sample.csv
